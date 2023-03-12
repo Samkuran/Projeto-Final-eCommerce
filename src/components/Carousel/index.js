@@ -20,7 +20,7 @@ export default function Carousel (){
                             <div className="row">
                                 <div className="col-4 text-start">
                                     <p className="texto1">Melhores ofertas personalizadas</p>
-                                    <h2 className="texto2">Queima de <br /> stoque Nike 🔥</h2>
+                                    <h2 className="texto2">Queima de <br /> estoque Nike 🔥</h2>
                                     <p className="texto3">Consequat culpa exercitation mollit nisi excepteur do do tempor laboris eiusmod irure consectetur.
                                     <button className="btn-verofertas">Ver ofertas</button>
                                     </p>
@@ -40,7 +40,7 @@ export default function Carousel (){
                             <div className="row">
                                 <div className="col-4 text-start">
                                     <p className="texto1">Melhores ofertas personalizadas</p>
-                                    <h2 className="texto2">Queima de <br /> stoque Nike 🔥</h2>
+                                    <h2 className="texto2">Queima de <br /> estoque Nike 🔥</h2>
                                     <p className="texto3">Consequat culpa exercitation mollit nisi excepteur do do tempor laboris eiusmod irure consectetur.
                                     <button className="btn-verofertas">Ver ofertas</button>
                                     </p>
@@ -60,7 +60,7 @@ export default function Carousel (){
                             <div className="row">
                                 <div className="col-4 text-start">
                                     <p className="texto1">Melhores ofertas personalizadas</p>
-                                    <h2 className="texto2">Queima de <br /> stoque Nike 🔥</h2>
+                                    <h2 className="texto2">Queima de <br /> estoque Nike 🔥</h2>
                                     <p className="texto3">Consequat culpa exercitation mollit nisi excepteur do do tempor laboris eiusmod irure consectetur.
                                     <button className="btn-verofertas">Ver ofertas</button>
                                     </p>

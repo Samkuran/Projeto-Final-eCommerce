@@ -6,7 +6,6 @@ import OfertaDestaque from "../../components/OfertaDestaque";
 export default function Home (){
     return(
         <div>
-            Pagina inicial
             <Carousel/>
             <ColecoesDestaque/>
             parte da Andy
