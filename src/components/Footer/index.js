@@ -1,7 +1,7 @@
-export default function ColecaoDestaque (){
+export default function Footer (){
     return(
         <div>
-            colecao destaque
+            footer
         </div>
     );
 }
