@@ -1,6 +1,10 @@
 *{  width: 100%;
     margin: 0;}
 
+#ofertadest{
+    height: 553px;
+}
+
 #ladoe{
     padding: 0;
     display: flex;
@@ -45,6 +49,7 @@
 }
 
 #oferta{
+    text-decoration: none;
     color: rgba(201, 32, 113, 1);
     font-size: 14px;
     font-weight: 700;

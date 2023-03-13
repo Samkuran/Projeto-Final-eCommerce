@@ -7,6 +7,7 @@ import Navbar from './components/Navbar';
 import Menu from './components/Menu';
 
 
+ 
 export default function App(){
     return (
     <>
@@ -19,6 +20,7 @@ export default function App(){
             <Route path='/categorias' element={<Categorias/>} />
             <Route path='/meus-pedidos' element={<MeusPedidos/>} />
         </Routes>
+       
       </BrowserRouter>
     </>
     );
