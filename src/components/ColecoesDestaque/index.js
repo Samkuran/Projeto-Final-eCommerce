@@ -1,7 +1,8 @@
-export default function ColecoesDestaque (){
+export default function ColecaoDestaque (){
     return(
         <div>
-            carly
+            colecao destaque
+            Carly
         </div>
     );
 }

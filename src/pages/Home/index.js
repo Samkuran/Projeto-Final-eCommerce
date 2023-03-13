@@ -1,15 +1,18 @@
 import Carousel from "../../components/Carousel";
-import ColecoesDestaque from "../../components/ColecoesDestaque";
 import OfertaDestaque from "../../components/OfertaDestaque";
+import ColecaoDestaque from "../../components/ColecoesDestaque";
+import Footer from "../../components/Footer";
 
 
 export default function Home (){
     return(
         <div>
-            <Carousel/>
-            <ColecoesDestaque/>
-            parte da Andy
+            
+            <Carousel />
+            <ColecaoDestaque />
+            Parte da Andy
             <OfertaDestaque/>
+            <Footer />
         </div>
     );
 }
