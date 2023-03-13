@@ -1,0 +1,23 @@
+.menu a {
+    text-decoration: none;
+    margin-right: 32px; 
+    color: rgba(71, 71, 71, 1);
+    font-family: 'Inter';
+    font-style: normal; 
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.75px;
+}
+
+.menu a:hover{
+    color: #C92071;
+    font-weight: bold;
+    border-bottom: 3px solid #C92071;
+}
+
+.menu a.active {
+    color: #C92071;
+    font-weight: bold;
+    border-bottom: 3px solid #C92071;
+}

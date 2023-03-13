@@ -1,0 +1,41 @@
+.container{
+    display: flex;
+    margin-top: 42px; 
+    margin-bottom: 48px;
+}
+
+#conjlogo{
+    display: flex;
+    width: 253px;
+    height: 44px;
+}
+
+#vetor{
+    height: 33px;
+    width: 33px;
+    margin-right: 5px;
+    margin-top: 5px;
+}
+
+#logo{
+    width: 212px;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 35px;
+    line-height: 44px;
+    letter-spacing: -0.01em;
+    color: #C92071;
+}
+
+#form {
+    margin-left: 50px;
+}
+
+.busca {
+    background: #4747470d;
+    border-radius: 8px;
+    border-color:  #C92071 solid 2px;
+}
+
