@@ -1,17 +1,18 @@
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
-import 'bootstrap/dist/css/bootstrap.min.css';
 import Home from './pages/Home';
 import MeusPedidos from './pages/MeusPedidos';
 import Produtos from './pages/Produtos';
 import Categorias from './pages/Categorias';
-import Header from './components/Header';
+import Navbar from './components/Navbar';
+import Menu from './components/Menu';
 
 
 export default function App(){
     return (
     <>
       <BrowserRouter>
-        <Header/>
+        <Navbar/>
+        <Menu/>
         <Routes>
             <Route path='/' element={<Home/>} />
             <Route path='/produtos' element={<Produtos/>} />

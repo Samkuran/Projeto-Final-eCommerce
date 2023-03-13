@@ -1,3 +1,4 @@
+import 'bootstrap/dist/css/bootstrap.min.css';
 import "./styles.css";
 import tenis from "./tenisdestaque.png";
 
@@ -22,4 +23,4 @@ export default function OfertaDestaque (){
                 </section>
         </div>
     );
-}
+} 
