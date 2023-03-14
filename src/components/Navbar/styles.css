@@ -33,9 +33,30 @@
     margin-left: 50px;
 }
 
-.busca {
-    background: #4747470d;
-    border-radius: 8px;
-    border-color:  #C92071 solid 2px;
+.cadastro{
+    text-decoration: none;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    letter-spacing: 0.75px;
+    text-decoration-line: underline;
+    color: #474747;
+    margin-left: 2.8rem;
+    text-align: center;
+    margin-right: 1.8rem;
+    margin-top: 5px;
+    width: 9rem;
 }
+
+.cadastro:hover{
+    color: #C92071;
+}
+
+.carrinho{
+    width: 25px;
+    margin-top: 5px;
+    margin-left: 4rem;
+}
+
+
 
