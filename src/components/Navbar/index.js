@@ -1,3 +1,4 @@
+import React from "react";
 import vetor from "./Vector.png";
 import {TextField, InputAdornment, Button, Badge} from "@mui/material";
 import SearchIcon from '@mui/icons-material/Search';
@@ -7,6 +8,7 @@ import ShoppingCartOutlinedIcon from '@mui/icons-material/ShoppingCartOutlined';
 
 
 export default function Navbar (){
+
     return(
         <>
         <div className="container">
